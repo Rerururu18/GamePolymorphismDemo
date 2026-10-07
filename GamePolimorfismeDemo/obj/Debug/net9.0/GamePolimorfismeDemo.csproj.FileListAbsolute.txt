@@ -1,0 +1,14 @@
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\bin\Debug\net9.0\GamePolimorfismeDemo.exe
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\bin\Debug\net9.0\GamePolimorfismeDemo.deps.json
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\bin\Debug\net9.0\GamePolimorfismeDemo.runtimeconfig.json
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\bin\Debug\net9.0\GamePolimorfismeDemo.dll
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\bin\Debug\net9.0\GamePolimorfismeDemo.pdb
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\obj\Debug\net9.0\GamePolimorfismeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\obj\Debug\net9.0\GamePolimorfismeDemo.AssemblyInfoInputs.cache
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\obj\Debug\net9.0\GamePolimorfismeDemo.AssemblyInfo.cs
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\obj\Debug\net9.0\GamePolimorfismeDemo.csproj.CoreCompileInputs.cache
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\obj\Debug\net9.0\GamePolimorfismeDemo.dll
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\obj\Debug\net9.0\refint\GamePolimorfismeDemo.dll
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\obj\Debug\net9.0\GamePolimorfismeDemo.pdb
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\obj\Debug\net9.0\GamePolimorfismeDemo.genruntimeconfig.cache
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GamePolimorfismeDemo\obj\Debug\net9.0\ref\GamePolimorfismeDemo.dll
